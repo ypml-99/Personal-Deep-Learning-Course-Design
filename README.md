@@ -29,3 +29,7 @@ Here are the detailed steps on how to run our deep learning model 'best.pt':
 ### Output explanation
 
    The model will output prediction results, including bounding boxes and category labels for each detected object. The output will be saved in the 'runs' folder.
+
+### Model location
+
+   Baidu Netdisk：https://pan.baidu.com/s/1ZQMtkRZleZ4r41KaYF8tow?pwd=idr4
