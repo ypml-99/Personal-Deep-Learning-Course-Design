@@ -1,0 +1,12 @@
+train: /Users/apple/PycharmProjects/yolov10/voc_data/voc_images
+val: /Users/apple/PycharmProjects/yolov10/voc_data/voc_images  
+test: /Users/apple/PycharmProjects/yolov10/voc_data/voc_images   
+
+nc: 5
+
+names:
+  0: Header
+  1: Title
+  2: Text
+  3: Figure
+  4: Foot
